@@ -1,4 +1,4 @@
-update=Sun 11 Jun 2017 04:49:37 PM EDT
+update=Wed 25 Oct 2017 11:48:46 AM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../parts_library;../EllicottSamuel
+LibDir=kicad-parts
 [eeschema/libraries]
 LibName1=can_sensor-rescue
 LibName2=power
@@ -59,8 +59,7 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=EllicottPower
-LibName32=EllicottDisplay
-LibName33=EllicottInterface
-LibName34=EllicottMicrocontrollers
-LibName35=EllicottMisc
+LibName31=kicad-parts/relays_switches
+LibName32=kicad-parts/supermileage
+LibName33=kicad-parts/supermileage_computers
+LibName34=kicad-parts/supermileage_sensors
